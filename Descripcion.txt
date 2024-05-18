@@ -1,0 +1,10 @@
+Aplicacion de gasto semanal de acuerdo a presupuesto.
+
+Se coloca un presupuesto valido para que se muestre la interfaz.
+Se pueden agregar gastos y su monto y luego el sistema calcula
+tu dinero restante de acuerdo a los gastos informados.
+El dinero restante se muestra de color distinto de acuerdo a si hemos gastado 
+la mitad o el 75% de nuestro presupuesto.
+Luego de no tener mas presupuesto, no se pueden agregar gastos.
+
+Ademas se pueden eliminar los gastos individualmente.
